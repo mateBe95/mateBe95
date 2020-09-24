@@ -29,7 +29,7 @@ I'm 25 years old, JavaScript enthusiast. Some technologies I enjoy working with 
 [![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=CircleCI&logoColor=white)](https://github.com/mateBe95/)
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/mateBe95/)
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/mateBe95/)
-[![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/mateBe95/)
+[![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=Figma&logoColor=white)](https://github.com/mateBe95/)
 
 ## 📕 Commercials project which i was involved 
 
