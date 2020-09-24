@@ -17,6 +17,7 @@ I'm 25 years old, JavaScript enthusiast. Some technologies I enjoy working with 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/mateBe95/)](https://github.com/mateBe95)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/mateBe95)](https://github.com/mateBe95)
 
+[![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)](https://github.com/mateBe95)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/mateBe95)
 [![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)](https://github.com/mateBe95/)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-purple?style=flat-square&logo=Gatsby&logoColor=white)](https://github.com/mateBe95/)
