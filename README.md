@@ -2,7 +2,7 @@
 
 ## 🙍 About me
 
-I'm 25 years old, JavaScript enthusiast. Some technologies I enjoy working with include ReactJS, Angular2+ (JavaScript, APIs + Markup) and GraphQL. Still learning and discovering new stuff!
+I'm 27 years old, JavaScript enthusiast. Some technologies I enjoy working with include ReactJS, Angular2+ (JavaScript, APIs + Markup) and GraphQL. Still learning and discovering new stuff!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusz-bieda/)](https://www.linkedin.com/in/mateusz-bieda/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusz.bieda95@gmail.com)](mailto:mateusz.bieda95@gmail.com)
