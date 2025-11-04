@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<picture>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
+</picture>
+
 ## 🙍 About me
 
 I'm 30 years old, JavaScript enthusiast. Some technologies I enjoy working with include ReactJS, Angular2+ (JavaScript, APIs + Markup) and GraphQL. Still learning and discovering new stuff!
